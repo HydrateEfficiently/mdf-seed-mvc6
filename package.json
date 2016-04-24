@@ -1,0 +1,20 @@
+{
+  "name": "mdf-seed-mvc6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "nodegit": "^0.12.2",
+    "replace": "^0.3.0",
+    "rimraf": "^2.5.2"
+  },
+  "bin": {
+    "mdf-seed-mvc6": "./main.js"
+  }
+}
